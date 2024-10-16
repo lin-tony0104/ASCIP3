@@ -5,3 +5,10 @@
 - cache_system.py: 完整的cache執行流程，呼叫evict_policy,admit_policy
 - evict_policy(資料夾):所有驅逐策略
 - admit_policy(資料夾):所有准入策略(主要:ASC_Admission.py)
+
+
+#原始ASC_IP_LRU
+
+trace下載網址:https://drive.google.com/file/d/17lv8Zd6DG1TyBdJw1WlGV25heeicDuYp/view?usp=sharing
+
+trace位置 "D:/all_Trace/ASC-IP/wiki2018"
