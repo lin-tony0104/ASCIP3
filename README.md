@@ -7,7 +7,7 @@
 - admit_policy(資料夾):所有准入策略(主要:ASC_Admission.py)
 
 
-#原始ASC_IP_LRU
+# 原始ASC_IP_LRU
 
 trace下載網址:https://drive.google.com/file/d/17lv8Zd6DG1TyBdJw1WlGV25heeicDuYp/view?usp=sharing
 
